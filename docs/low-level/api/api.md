@@ -30,3 +30,4 @@ async def captcha_handler(e: CaptchaError):
 
 bot.api.add_captcha_handler(captcha_handler)
 ```
+Привет)
